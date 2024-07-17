@@ -1,4 +1,4 @@
-<h1 align="center"> FORO HUB aquí </h1>
+<h1 align="center"> FORO HUB </h1>
 
 Aplicacion creada en java Spring Boot
 Back End de un foro pensado para que los alumnos despejen sus dudas de sus cursos
